@@ -10,7 +10,7 @@ html, body {
     width: calc(0.2 * 100vw);
     border:2px solid hsl(322, 100%, 66%);
     font-size:1rem;
-    background-color:none;
+    background-color:white;
     
 }
 
@@ -132,4 +132,10 @@ h3 {
         white-space:pre;
     }
 }
+
+.free-tier:hover, .free-blob:hover, .free-blob-footer:hover {
+    background-color:hsl(321, 100%, 78%);
+}
+
+
 
