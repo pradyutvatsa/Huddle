@@ -6,7 +6,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
